@@ -1,0 +1,63 @@
+Last login: Tue Sep 10 11:38:57 on ttys001
+Air-de-Aurelien:~ laura$ ls
+Applications					Documents					MacKeeper Backups				Pictures
+Creative Cloud Files				Downloads					Movies						Public
+Desktop						Library						Music						dostlaura@gmail.com Creative Cloud Files
+Air-de-Aurelien:~ laura$ ls downloads
+2-algorithmique1-programme (1).odt			AdobeStock_48824506_Preview.ai				HTML_Export_Db50dabdc11d1f9c037a4627a3ef66fba.zip
+2-algorithmique1-programme (2).odt			Apache_OpenOffice_4.1.6_MacOS_x86-64_install_fr.dmg	Travail sur Python à faire.pdf
+2-algorithmique1-programme.odt				Export_De646c57be421df51c90a337586a59189.ppt		androidfiletransfer.dmg
+20190629_091101.jpg					FA002276.pdf						collage-2.png
+Adobe Flash Player-2.dmg				FA156847.pdf						combocleaner.dmg
+Adobe Flash Player.dmg					FileZilla_3.41.2_macosx-x86_setup_bundled.dmg		exporthtml
+AdobeStock_158961961_Preview.ai				HELIOS ophtalmologie PRESENTATION 2014.mp4		logoheliosmodifié.key
+Air-de-Aurelien:~ laura$ pwd
+/Users/laura
+Air-de-Aurelien:~ laura$ cd images
+-bash: cd: images: No such file or directory
+Air-de-Aurelien:~ laura$ cd documents
+Air-de-Aurelien:documents laura$ pwd
+/Users/laura/documents
+Air-de-Aurelien:documents laura$ cd ..
+Air-de-Aurelien:~ laura$ pwd
+/Users/laura
+Air-de-Aurelien:~ laura$ cd ..
+Air-de-Aurelien:Users laura$ pwd
+/Users
+Air-de-Aurelien:Users laura$ cd..
+-bash: cd..: command not found
+Air-de-Aurelien:Users laura$ pwd
+/Users
+Air-de-Aurelien:Users laura$ ls
+Guest	Shared	laura
+Air-de-Aurelien:Users laura$ cd ..
+Air-de-Aurelien:/ laura$ pwd
+/
+Air-de-Aurelien:/ laura$ ls
+Applications			Users				dev				installer.failurerequests	tmp
+Library				Volumes				etc				net				usr
+Network				bin				file				private				var
+System				cores				home				sbin				vm
+Air-de-Aurelien:/ laura$ cd/users/laura
+-bash: cd/users/laura: No such file or directory
+Air-de-Aurelien:/ laura$ cd/home/laura
+-bash: cd/home/laura: No such file or directory
+Air-de-Aurelien:/ laura$ pwd
+/
+Air-de-Aurelien:/ laura$ cd
+Air-de-Aurelien:~ laura$ pwd
+/Users/laura
+Air-de-Aurelien:~ laura$ cd desktop
+Air-de-Aurelien:desktop laura$ ~cd
+-bash: ~cd: command not found
+Air-de-Aurelien:desktop laura$ pwd
+/Users/laura/desktop
+Air-de-Aurelien:desktop laura$ cd~documents
+-bash: cd~documents: command not found
+Air-de-Aurelien:desktop laura$ cd~/documents
+-bash: cd~/documents: No such file or directory
+Air-de-Aurelien:desktop laura$ pwd
+/Users/laura/desktop
+Air-de-Aurelien:desktop laura$ 
+
+
