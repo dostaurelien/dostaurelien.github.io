@@ -28,6 +28,6 @@ img {
 /* Français : Remplace les points ci-dessous par un sélecteur ciblant la seconde image de la page. N'utilise pas de classe ou d'id ! */
 
 img:nth-of-type(2n){
-    filter: grayscale(1);     /* English : Replace with a property that makes the image look black & white. */
+    filter: grayscale(100%);     /* English : Replace with a property that makes the image look black & white. */
                 /* Français : Remplace par une propriété faisant paraître l'image en noir et blanc. */
 }
